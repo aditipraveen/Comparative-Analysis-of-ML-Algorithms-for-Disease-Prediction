@@ -1,5 +1,6 @@
 # Comparative-Analysis-of-ML-Algorithms-for-Disease-Prediction
-Comparative Analysis of different Classification Algorithms for the prediction of diseases
+Comparative Analysis of different Classification Algorithms for the prediction of diseases.
+
 Datasets collected from Kaggle
 ## Algorithms used:
 * Decision Tree 
